@@ -1,0 +1,9 @@
+[package]
+name = "arch-censorship-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-censorship-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-censorship-kernel"
+
+[dependencies]
